@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://hungdinhnguyen.com/](https://hungdinhnguyen.com/)
+- 👨‍💻 All of my projects are available at [https://hungdinhnguyen.com](https://hungdinhnguyen.com)
 
 - 💬 Ask me about **my projects, hobbies, and video games**
 

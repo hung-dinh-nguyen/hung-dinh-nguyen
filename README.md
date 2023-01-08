@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hung-dinh-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="hung-dinh-nguyen" /> </p>
 
-- 🔭 I’m currently working on [tax-calculator](https://github.com/hung-dinh-nguyen/tax-calculator)
+- 🔭 I’m currently working on [fun-fact-machine](https://github.com/hung-dinh-nguyen/fun-fact-machine)
 
 - 🌱 I’m currently learning **MERN Stack**
 
